@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-deepmeep-dev-113813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112934433488:role/amplify-deepmeep-dev-113813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112934433488:role/amplify-deepmeep-dev-113813-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-deepmeep-dev-113813-deployment",
+      "UnauthRoleName": "amplify-deepmeep-dev-113813-unauthRole",
+      "StackName": "amplify-deepmeep-dev-113813",
+      "StackId": "arn:aws:cloudformation:us-east-1:112934433488:stack/amplify-deepmeep-dev-113813/f7c77ee0-5a0b-11ed-aa6f-120f5577763d",
+      "AmplifyAppId": "d24qhxdhtsfgi9"
+    }
+  }
+}
